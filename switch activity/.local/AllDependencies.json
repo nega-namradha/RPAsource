@@ -1791,9 +1791,9 @@
     "restore": {
       "projectUniqueName": "switch activity",
       "projectName": "switch activity",
-      "projectPath": "C:\\Users\\Murali Omi\\Documents\\UiPath\\switch activity\\.local",
+      "projectPath": "D:\\rpabots\\RPAsource\\switch activity\\.local",
       "packagesPath": "C:\\Users\\Murali Omi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Murali Omi\\Documents\\UiPath\\switch activity\\.local"
+      "outputPath": "D:\\rpabots\\RPAsource\\switch activity\\.local"
     },
     "frameworks": {
       "net461": {
