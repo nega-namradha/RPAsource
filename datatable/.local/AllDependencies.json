@@ -1791,9 +1791,9 @@
     "restore": {
       "projectUniqueName": "datatable",
       "projectName": "datatable",
-      "projectPath": "C:\\Users\\Murali Omi\\Documents\\UiPath\\datatable\\.local",
+      "projectPath": "D:\\rpabots\\RPAsource\\datatable\\.local",
       "packagesPath": "C:\\Users\\Murali Omi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Murali Omi\\Documents\\UiPath\\datatable\\.local"
+      "outputPath": "D:\\rpabots\\RPAsource\\datatable\\.local"
     },
     "frameworks": {
       "net461": {
