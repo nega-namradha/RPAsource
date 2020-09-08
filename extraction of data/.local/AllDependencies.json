@@ -1791,9 +1791,9 @@
     "restore": {
       "projectUniqueName": "extraction of data",
       "projectName": "extraction of data",
-      "projectPath": "D:\\rpabots\\RPAsource\\extraction of data\\.local",
+      "projectPath": "C:\\Users\\Murali Omi\\Documents\\UiPath\\UIPATH\\RPAsource\\extraction of data\\.local",
       "packagesPath": "C:\\Users\\Murali Omi\\.nuget\\packages\\",
-      "outputPath": "D:\\rpabots\\RPAsource\\extraction of data\\.local"
+      "outputPath": "C:\\Users\\Murali Omi\\Documents\\UiPath\\UIPATH\\RPAsource\\extraction of data\\.local"
     },
     "frameworks": {
       "net461": {

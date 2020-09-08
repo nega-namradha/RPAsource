@@ -1791,9 +1791,9 @@
     "restore": {
       "projectUniqueName": "notepad",
       "projectName": "notepad",
-      "projectPath": "D:\\rpabots\\RPAsource\\notepad\\.local",
+      "projectPath": "C:\\Users\\Murali Omi\\Documents\\UiPath\\UIPATH\\RPAsource\\notepad\\.local",
       "packagesPath": "C:\\Users\\Murali Omi\\.nuget\\packages\\",
-      "outputPath": "D:\\rpabots\\RPAsource\\notepad\\.local"
+      "outputPath": "C:\\Users\\Murali Omi\\Documents\\UiPath\\UIPATH\\RPAsource\\notepad\\.local"
     },
     "frameworks": {
       "net461": {

@@ -1791,9 +1791,9 @@
     "restore": {
       "projectUniqueName": "math operations",
       "projectName": "math operations",
-      "projectPath": "D:\\rpabots\\RPAsource\\math operations\\.local",
+      "projectPath": "C:\\Users\\Murali Omi\\Documents\\UiPath\\UIPATH\\RPAsource\\math operations\\.local",
       "packagesPath": "C:\\Users\\Murali Omi\\.nuget\\packages\\",
-      "outputPath": "D:\\rpabots\\RPAsource\\math operations\\.local"
+      "outputPath": "C:\\Users\\Murali Omi\\Documents\\UiPath\\UIPATH\\RPAsource\\math operations\\.local"
     },
     "frameworks": {
       "net461": {
