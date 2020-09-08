@@ -1791,9 +1791,9 @@
     "restore": {
       "projectUniqueName": "excel automation",
       "projectName": "excel automation",
-      "projectPath": "D:\\rpabots\\RPAsource\\excel automation\\.local",
+      "projectPath": "C:\\Users\\Murali Omi\\Documents\\UiPath\\excel automation\\.local",
       "packagesPath": "C:\\Users\\Murali Omi\\.nuget\\packages\\",
-      "outputPath": "D:\\rpabots\\RPAsource\\excel automation\\.local"
+      "outputPath": "C:\\Users\\Murali Omi\\Documents\\UiPath\\excel automation\\.local"
     },
     "frameworks": {
       "net461": {
